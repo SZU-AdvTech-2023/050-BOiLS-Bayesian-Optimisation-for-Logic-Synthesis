@@ -1,0 +1,7 @@
+@inproceedings{REPO050,
+    author = "Grosnit, Antoine and Malherbe, Cedric and Tutunov, Rasul and Wan, Xingchen and Wang, Jun and Ammar, Haitham Bou",
+    booktitle = "2022 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)",
+    pages = "1193-1196",
+    title = "{BOiLS: Bayesian Optimisation for Logic Synthesis}",
+    year = "2022"
+}
