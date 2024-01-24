@@ -1,0 +1,8 @@
+numpy==1.20.2
+pandas==1.2.3
+joblib==1.0.1
+pymoo==0.5.0
+tqdm==4.59.0
+sentence-transformers==2.2.2
+gpytorch==1.8.1
+torch==1.13.1
